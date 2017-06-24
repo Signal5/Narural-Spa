@@ -1,0 +1,573 @@
+
+
+@media only screen and (min-width: 967px){
+    body{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 966px){
+    
+    .center-box{
+        width: 98%;
+    }
+    
+    #phone{
+        font-size: 20px;
+    }
+    
+    #slidershow,
+    #slidershow-box{
+        height: auto;  
+    }
+ 
+    #top-content-text{
+        width: 97%;
+    }
+    
+    #text-box1,
+    #text-box2,
+    #text-box3{
+        padding: 0 15px 10px 15px;
+    }
+    
+    #text-box1 .diamond,
+    #text-box2 .diamond{
+        margin-left: 0;
+    }
+  
+
+    .diamond-in:nth-of-type(2n){
+        margin-bottom: 25px;
+    }
+    
+    .diamond-in:nth-of-type(3n){
+        margin-bottom: 25px;
+    }
+    
+    #text-box1 h2,
+    #text-box2 h2,
+    #text-box3 h2{
+        font-size: 22px;  
+    }
+    
+    #text-box3 h3{
+        font-size: 22px;  
+    }
+    
+}
+
+@media only screen and (min-width: 870px) and (max-width: 966px){
+    .diamond-in:nth-of-type(2n){
+        margin-bottom: 0;
+    }
+
+    .diamond-in:nth-of-type(3n){
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (min-width: 838px) and (max-width: 870px){
+
+    .diamond-in:nth-of-type(2n){
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (min-width: 838px) and (max-width: 961px){
+
+    .diamond-in:nth-of-type(4n){
+        margin-bottom: 25px;
+    }
+}
+
+@media only screen and (min-width: 823px) and (max-width: 966px){
+    
+    .diamond-in:nth-of-type(3n){
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+    .center-box{
+        width: 98%;
+    }
+    
+    #logo-place{
+        height: auto;
+    }
+    
+    #phone{
+        font-size: 22px;
+        display: block;
+        width: 100%;
+        margin-top: 15px;  
+    }
+    
+    #logo{
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    #logo img{
+        height: 70px;
+    }
+    
+    #social-place{
+        position: absolute;
+        right: 1%;      
+    }
+    
+    .fa {
+        margin-top: 15px;
+    }
+
+    
+    #slidershow,
+    #slidershow-box{
+        height: auto;  
+    }
+    
+    #slidershow-box img{
+        margin-top: -70px;
+    }
+    
+    nav ul li{ 
+        width: 22%;
+        padding: 15px 5px;
+    }
+    
+    nav ul li:nth-of-type(3n){
+        padding-left: 20px;
+    }
+    
+    #blog{
+        width: 100%;
+        padding: 0 35px 47px 35px;
+    }
+    
+    #map-place{
+        width: 92%; 
+    }
+    
+    h4,
+    h5,
+    date{
+        text-align: center;
+    }
+
+    .massage-img{
+        margin-left: 12.5%;
+    }
+
+    #text-box1,
+    #text-box2,
+    #text-box3{
+        padding: 0 5px 10px 5px;
+    }
+    
+    #text-box1 h2,
+    #text-box2 h2,
+    #text-box3 h2{
+        font-size: 20px; 
+    }
+
+    #text-box1 ul li,
+    #text-box2 ul li{
+        font-size: 14px;
+    }
+
+    #text-box1 .diamond,
+    #text-box2 .diamond{
+        margin-left: 15px;
+    }
+
+    .diamond {
+        width: 6px; 
+        height:6px;    
+    }
+
+    .diamond-in:nth-of-type(1n){
+        margin-bottom: 18px;
+    }
+
+
+    .diamond-in:nth-of-type(2n){
+        margin-bottom: 10px;
+    }
+
+    .diamond-in:nth-of-type(3n){
+        margin-bottom: 10px;
+    }
+
+    .diamond-in:nth-of-type(4n){
+        margin-bottom: 15px;
+    }
+
+
+    #text-box3 p{
+        font-size: 14px;
+    }
+
+    h3{ 
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+    .center-box{
+        width: 98%;
+    }
+    
+    #slidershow,
+    #slidershow-box{
+        height: auto;  
+    }
+    
+    #slidershow-box img{
+        margin-top: -30px;
+    }
+    
+    #blog{
+        width: 100%;
+        padding: 0 20px 47px 20px;
+    }
+
+    #map-place{
+        width: 99%;
+        margin-left: 0;
+    }
+    
+    #map-place h4{
+        margin-top: 0;
+    }
+    
+    h4,
+    h5,
+    date{
+        text-align: center;
+    }
+    
+    #logo-place{
+        height: auto;
+        margin-top: 40px;
+    }
+
+    #phone{
+        font-size: 20px;
+        display: block;
+        width: 100%;
+        margin-top: 21px;  
+    }
+
+    #logo{
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #logo img{
+        height: 70px;
+    }
+
+    #social-place{
+        position: absolute;
+        right: 1%;      
+    }
+
+    .fa{
+        margin-top: 15px;
+        width: 30px;
+        height: 30px;
+        padding: 7px;
+        padding-left: 5px;
+    }
+    
+    #menu-icon{
+        display:block;
+    }
+
+    #menu-icon img{
+        width: 35px;
+        height: 35px;
+        position: absolute;
+        right: 1%;
+        top: 10px;
+    }
+    
+    #top-nav{
+        height: auto;
+        padding-top: 55px;
+    }
+    
+    
+    
+    #top-nav ul li{
+        display: block;
+        width: 100%;
+        padding: 13px 0;
+        text-align: center;
+        border-bottom: 1px solid #754935;
+    }
+    
+    
+    #top-nav ul li:hover{
+        background: #fff;
+    }
+    
+    #top-nav ul li a:hover{
+        color: #5b3f30;
+    }
+    
+    
+    #top-nav ul li:first-of-type{
+        text-align: center;
+        width: 100%;
+    }
+
+    #top-nav ul li:last-of-type{
+        text-align: center;
+        width: 100%;
+        border-bottom: none;
+    }
+    
+    #massage-box1,
+    #massage-box2,
+    #massage-box3{
+        width: 100%;
+        display: block;
+        position: relative;
+        top: -60px;
+        overflow: hidden;
+    }
+    
+    .massage-img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    #text-box2 .diamond-in:nth-of-type(1n){
+        margin-bottom: 5px;
+    }
+    
+    #text-box1,
+    #text-box2,
+    #text-box3{
+        padding: 0 35px 10px 35px;
+    }
+    
+    #text-box1 ul{
+        width: 70%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+}
+
+@media only screen and (max-width: 479px){
+    .center-box{
+        width: 98%;
+    }
+    
+    #slidershow,
+    #slidershow-box{
+        height: auto;  
+    }
+
+    #slidershow-box img{
+        margin-top: -30px;
+    }
+
+    #blog{
+        width: 100%;
+        padding: 0 20px 47px 20px;
+    }
+
+    #map-place{
+        width: 99%;
+        margin-left: 0;
+    }
+
+    #map-place h4{
+        margin-top: 0;
+    }
+
+    h4,
+    h5,
+    date{
+        text-align: center;
+    }
+    
+    h4{
+       font-size: 21px;
+    }
+
+    #logo-place{
+        height: auto;
+        margin-top: 40px;
+    }
+
+    #phone{
+        font-size: 21px;
+        display: block;
+        width: 100%;
+        margin-top: 15px;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    #logo{
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+
+    #logo img{
+        height: 70px;
+    }
+
+    #social-place{
+        margin-bottom: 25px;
+        display: flex;
+        width: 100%;
+    }
+    
+    #icons{
+        display: block;
+        width: auto; 
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+
+    .fa{
+        margin-top: 15px;
+        width: 30px;
+        height: 30px;
+        padding: 7px;
+        padding-left: 5px;
+    }
+
+    #menu-icon{
+        display:block;
+    }
+
+    #menu-icon img{
+        width: 35px;
+        height: 35px;
+        position: absolute;
+        right: 1%;
+        top: 10px;
+    }
+
+    #top-nav{
+        height: auto;
+        padding-top: 55px;
+    }
+
+    #top-nav ul li{
+        display: block;
+        width: 100%;
+        padding: 13px 0;
+        text-align: center;
+        border-bottom: 1px solid #754935;
+    }
+    
+    #top-nav ul li:hover{
+        background: #fff;
+    }
+    
+    #top-nav ul li a:hover{
+        color: #5b3f30;
+    }
+
+    #top-nav ul li:first-of-type{
+        text-align: center;
+        width: 100%;
+    }
+
+    #top-nav ul li:last-of-type{
+        text-align: center;
+        width: 100%;
+        border-bottom: none;
+    }
+    
+    #top-content-text p{
+        font-size: 16px;
+    }
+
+    #massage-box1,
+    #massage-box2,
+    #massage-box3{
+        width: 100%;
+        display: block;
+        position: relative;
+        top: -60px;
+        overflow: hidden;
+    }
+
+    .massage-img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    #text-box2 .diamond-in:nth-of-type(1n){
+        margin-bottom: 0px;
+    }
+
+    #text-box1,
+    #text-box2,
+    #text-box3{
+        padding: 0 5px 10px 5px;
+    }
+    
+    #copy{
+        font-size: 14px;
+    }
+    
+    #copy a{
+        font-size: 14px;
+    }
+    
+    h3{
+        font-size: 22px;
+    }
+}
+
+@media only screen and (min-width: 331px) and (max-width: 478px){
+    #text-box2 .diamond-in:nth-of-type(1n){
+        margin-bottom: 4px;
+    }  
+}
+
+@media only screen and (max-width: 330px){
+    h1{
+        font-size: 32px;
+    }
+    #text-box2 .diamond-in:nth-of-type(1n){
+        margin-bottom: 20px;
+    }
+    
+    #text-box2 .diamond-in:nth-of-type(2n){
+        margin-bottom: 4px;
+    }
+    
+    #text-box2 .diamond-in:nth-of-type(3n){
+        margin-bottom: 4px;
+    }
+
+    #logo img{
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width: 305px){
+    #copy{
+        font-size: 12px;
+    }
+}
